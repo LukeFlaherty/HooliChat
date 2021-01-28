@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HooliChat/static/css/main.ee4dc154.chunk.css",
+    "main.js": "/HooliChat/static/js/main.fecf53b8.chunk.js",
+    "main.js.map": "/HooliChat/static/js/main.fecf53b8.chunk.js.map",
+    "runtime-main.js": "/HooliChat/static/js/runtime-main.3a881926.js",
+    "runtime-main.js.map": "/HooliChat/static/js/runtime-main.3a881926.js.map",
+    "static/js/2.8c4b2077.chunk.js": "/HooliChat/static/js/2.8c4b2077.chunk.js",
+    "static/js/2.8c4b2077.chunk.js.map": "/HooliChat/static/js/2.8c4b2077.chunk.js.map",
+    "static/js/3.912ee08c.chunk.js": "/HooliChat/static/js/3.912ee08c.chunk.js",
+    "static/js/3.912ee08c.chunk.js.map": "/HooliChat/static/js/3.912ee08c.chunk.js.map",
+    "index.html": "/HooliChat/index.html",
+    "static/css/main.ee4dc154.chunk.css.map": "/HooliChat/static/css/main.ee4dc154.chunk.css.map",
+    "static/js/2.8c4b2077.chunk.js.LICENSE.txt": "/HooliChat/static/js/2.8c4b2077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a881926.js",
+    "static/js/2.8c4b2077.chunk.js",
+    "static/css/main.ee4dc154.chunk.css",
+    "static/js/main.fecf53b8.chunk.js"
+  ]
+}
