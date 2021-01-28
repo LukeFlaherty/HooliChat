@@ -1,0 +1,21 @@
+.message{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+/* makes the user boxes goto the right side */
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message__userCard{
+    background-color: darkseagreen !important;
+    color: white;
+}
+
+.message__guestCard{
+    background-color: #e9e9e9;
+}
